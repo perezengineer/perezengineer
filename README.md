@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @perezengineer
 - 👀 I’m interested in creating amazing things
-- 🌱 I’m currently learning data analytics
+- 🌱 I’m currently learning Machine learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
